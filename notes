@@ -1,0 +1,8 @@
+$ npx create-react-app . --template typescript
+
+$ yarn add @material-ui/core @material-ui/icons
+
+$ yarn add react-quert
+
+$ yarn add @material-ui/core @material-ui/icons
+
